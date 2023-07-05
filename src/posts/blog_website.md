@@ -7,6 +7,21 @@ categories:
   - blog
 published: true
 ---
+<script> 
+import Seriously from './Seriously.svelte';
+import Seriously from './Boinger.svelte';
+</script>
 
 
 ## New Blog
+<Boinger color="{ blue }"/>
+
+<Seriously>
+
+### I wasn't joking
+
+```
+	This is real life
+```
+
+</Seriously>
