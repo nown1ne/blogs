@@ -3,8 +3,8 @@
 
 <style>
 	div {
-		background: pink;
-		border: 23px solid orange;
+		background: orange;
+		border: 23px solid orangered;
 		padding: 0 15px;
 		width: 400px;
 		text-align: center;

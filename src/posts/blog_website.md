@@ -8,13 +8,14 @@ categories:
 published: true
 ---
 <script> 
-import Seriously from './Seriously.svelte';
-import Seriously from './Boinger.svelte';
+import Seriously from './jainwin.svelte';
+import Boinger from './boinger.svelte';
+import Counter from './counter.svelte'
 </script>
 
 
 ## New Blog
-<Boinger color="{ blue }"/>
+<Boinger color="blue"/>
 
 <Seriously>
 
