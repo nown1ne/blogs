@@ -8,9 +8,9 @@ categories:
 published: true
 ---
 <script> 
-import Seriously from './jainwin.svelte';
-import Boinger from './boinger.svelte';
 import Counter from './counter.svelte'
+import Boinger from './boinger.svelte';
+import Seriously from './jainwin.svelte';
 </script>
 
 
